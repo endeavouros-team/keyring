@@ -1,0 +1,2 @@
+# keyring
+official EndeavourOS keyring
